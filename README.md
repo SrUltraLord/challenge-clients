@@ -22,6 +22,12 @@ Para iniciar la aplicación es necesario ejecutar el siguiente comando:
 $ ./gradlew bootRun
 ```
 
+Para la ejecución de las pruebas unitarias es necesario correr el siguiente comando:
+
+```bash
+$ ./gradlew test
+```
+
 # Autor
 
 - David Reyes
